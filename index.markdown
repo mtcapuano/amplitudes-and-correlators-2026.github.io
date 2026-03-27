@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-# About
+
 
 Amplitudes and Correlators is a postgraduate meeting funded by the South East Physics Network (SEPNet). 
 etc..
