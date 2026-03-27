@@ -1,6 +1,6 @@
 layout: page
-title: "timetable"
-permalink: /timetable
+title: timetable
+permalink: /timetable/
 
 
 Here is a tentative timetable. 
