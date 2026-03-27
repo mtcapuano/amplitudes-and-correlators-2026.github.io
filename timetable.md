@@ -1,6 +1,6 @@
 ---
 layout: page
-title: timetable
+title: Timetable
 permalink: /timetable/
 ---
 
