@@ -6,7 +6,7 @@ layout: home
 ---
 
 
-
+![Correlators and amplitudes in the skyes of the Hatfield house](https://github.com/mtcapuano/amplitudes-and-correlators-2026.github.io/blob/main/Cover_image.jpg)
 
 Amplitudes and Correlators is a postgraduate meeting funded by the graduate school of the South East Physics Network ([GRADnet](https://sepnet.ac.uk/sepnet-graduate-network/)). 
 etc..
