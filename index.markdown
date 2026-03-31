@@ -10,7 +10,7 @@ layout: home
   <img src="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/img/Cover_image.jpg" />
 </p>
 
-CASE2026 is a postgraduate meeting funded by the graduate school of the South East Physics Network ([GRADnet](https://sepnet.ac.uk/sepnet-graduate-network/)). 
+**Correlators and Amplitudes in the South-East 2026** is a postgraduate meeting funded by the graduate school of the South East Physics Network ([GRADnet](https://sepnet.ac.uk/sepnet-graduate-network/)). 
 etc..
 
 ## Where and when 
