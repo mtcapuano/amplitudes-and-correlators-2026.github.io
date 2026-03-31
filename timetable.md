@@ -4,10 +4,10 @@ title: Timetable
 permalink: /timetable/
 ---
 
-Here is a tentative timetable. 
+When available, the timetable will be displayed here. 
 
-| Time    | Speaker  | Title |
-| -------- | ------- |------ |
-|          |         |        |
-| |      ||
-|    |     ||
+%| Time    | Speaker  | Title |
+%| -------- | ------- |------ |
+%|          |         |        |
+%| |      ||
+%|    |     ||
