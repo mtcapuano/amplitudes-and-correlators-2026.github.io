@@ -6,12 +6,17 @@ layout: home
 ---
 
 
-<p align="center">
+<p align="center">  
   <img src="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/img/Cover_image.jpg" />
 </p>
 
-**Correlators and Amplitudes in the South-East 2026** is a postgraduate meeting funded by the graduate school of the South East Physics Network ([GRADnet](https://sepnet.ac.uk/sepnet-graduate-network/)). 
-etc..
+**Correlators and Amplitudes in the South East 2026** is a postgraduate meeting funded by the graduate school of the South East Physics Network ([GRADnet](https://sepnet.ac.uk/sepnet-graduate-network/)).
+The goal is to bring together early-career researchers interested in correlators, scattering amplitudes and related areas of mathematical and theoretical physics. Everyone is welcome to give their contribution with a talk (20 to 30 minutes long)
+or a poster. 
+We would like to create a friendly and informal environment where you can exchange ideas, discuss ongoing work, and build connections within the community.
+The meeting should also provide a good opportunity for people working in related areas to know each other ahead of Amplitudes 2026, which will take place at the end of June in Queen Mary University London.
+The meeting will also feature one or two senior speakers TBD.
+
 
 ## Where and when 
 The meeting will take place in the first week of May in the [Centre for Mathematics and Theoretical Physics](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics) at the University of Hertfordshire in Hatfield. 
@@ -25,10 +30,10 @@ On the registration page you can also specify if you want to present a poster or
 
 ## Support and practical information
  
- We can reimburse the travel expenses. We have also limited funds for accomodation for speakers coming from afar  (DO WE?). 
- Posters can be printed on site. Lunch and tea break will be offered by the organization.
+We have funds available to reimburse travel expenses. Posters can be printed on site. 
+Lunch, tea breaks and dinner will be offered by the organization.
 
-## Access
+## Access to the venue
 The meeting will take place in room SP1004, on the first floor of the SPECTRA building in the College Lane Campus of the University of Hertfordshire in Hatfield. 
 
 The university can be reached either by walking or by bus from the Hatfield station, a 20 minutes train ride away from King's Cross station in London and an hour from Cambridge
