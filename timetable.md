@@ -5,9 +5,3 @@ permalink: /timetable/
 ---
 
 When available, the timetable will be displayed here. 
-
-%| Time    | Speaker  | Title |
-%| -------- | ------- |------ |
-%|          |         |        |
-%| |      ||
-%|    |     ||
