@@ -14,7 +14,7 @@ layout: home
 The goal is to bring together early-career researchers interested in correlators, scattering amplitudes and related areas of mathematical and theoretical physics. Everyone is welcome to give their contribution with a talk (20 to 30 minutes long)
 or a poster. 
 We would like to create a friendly and informal environment where you can exchange ideas, discuss ongoing work, and build connections within the community.
-The meeting should also provide a good opportunity for people working in related areas to know each other ahead of Amplitudes 2026, which will take place at the end of June in Queen Mary University London.
+The meeting should also provide a good opportunity for people working in related areas to know each other ahead of Amplitudes 2026, which will take place at the end of June in Queen Mary University of London.
 The meeting will also feature one or two senior speakers TBD.
 
 
