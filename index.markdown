@@ -19,7 +19,7 @@ The meeting will also feature one or two senior speakers TBD.
 
 
 ## Where and when 
-The meeting will take place in the first week of May in the [Centre for Mathematics and Theoretical Physics](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics) at the University of Hertfordshire in Hatfield. 
+The meeting will take place on the **5<sup>th</sup> of May** in the [Centre for Mathematics and Theoretical Physics](https://www.herts.ac.uk/research/groups-and-units/mathematics-and-mathematical-physics) at the University of Hertfordshire in Hatfield. 
 
 ## Organizers
 Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mary University London), Rowan Wright (University of Southampton). For further queries write at m.capuano@herts.ac.uk.
