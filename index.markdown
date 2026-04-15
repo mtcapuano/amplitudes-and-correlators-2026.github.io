@@ -38,4 +38,4 @@ The meeting will take place in room SP1004, on the first floor of the SPECTRA bu
 
 The university can be reached either by walking or by bus from the Hatfield station, a 20 minutes train ride away from King's Cross station in London and an hour from Cambridge
 
-<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2469.923112974097!2d-0.2407571!3d51.7527295!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48763de9493514a9%3A0xda69e46edbf14ddf!2sSpectra!5e0!3m2!1sit!2suk!4v1774627459398!5m2!1sit!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2469.9253282322275!2d-0.24199462314634088!3d51.7526889927544!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x48763de9493514a9%3A0xda69e46edbf14ddf!2sSpectra!5e0!3m2!1sen!2suk!4v1776256460323!5m2!1sen!2suk" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
