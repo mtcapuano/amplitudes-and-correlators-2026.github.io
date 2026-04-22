@@ -25,7 +25,7 @@ The meeting will take place on the **5<sup>th</sup> of May** in the [Centre for 
 Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mary University London), Rowan Wright (University of Southampton). For further queries write at m.capuano@herts.ac.uk.
 
 ## Registration and abstracts
-Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 26**.
+Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 27**.
 On the registration page you can also specify if you want to present a poster or a talk.
 
 ## Support and practical information
