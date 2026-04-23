@@ -15,7 +15,7 @@ The goal is to bring together early-career researchers interested in correlators
 or a poster. 
 We would like to create a friendly and informal environment where you can exchange ideas, discuss ongoing work, and build connections within the community.
 The meeting should also provide a good opportunity for people working in related areas to know each other ahead of Amplitudes 2026, which will take place at the end of June in Queen Mary University of London.
-The meeting will also feature one or two senior speakers TBD.
+The meeting will feature one research lecture by prof. James Drummond from the university of Southampton.
 
 
 ## Where and when 
@@ -26,12 +26,13 @@ Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mar
 
 ## Registration and abstracts
 Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 27**.
-On the registration page you can also specify if you want to present a poster or a talk.
+On the registration page you can also specify if you want to present a poster or a talk. Talks can be delivered either with slides or with whiteboards, whichever mode is preferred. 
 
 ## Support and practical information
  
 We have funds available to reimburse travel expenses. Posters can be printed on site. 
-Lunch, tea breaks and dinner will be offered by the organization.
+Lunch, tea breaks and dinner will be offered by the organization. The meeting will start approximately at 10am and will finish by 6pm.
+Dinner will take place in a restaurant close to the station, to help those who need to catch a train. 
 
 ## Access to the venue
 The meeting will take place in room SP1004, on the first floor of the SPECTRA building in the College Lane Campus of the University of Hertfordshire in Hatfield. 
