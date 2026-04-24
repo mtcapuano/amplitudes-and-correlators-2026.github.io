@@ -26,7 +26,7 @@ Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mar
 
 ## Registration and abstracts
 Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 27**.
-On the registration page you can also specify if you want to present a poster or a talk. Talks can be delivered either with slides or with whiteboards, whichever mode is preferred. **Applications for talks are now closed due to the high number of requests**.
+On the registration page you can also specify if you want to present a poster or a talk. Talks can be delivered either with slides or with whiteboards, whichever mode is preferred.
 
 ## Support and practical information
  
