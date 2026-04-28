@@ -26,7 +26,8 @@ Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mar
 
 ## Registration and abstracts
 Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 27**.
-Registration is now closed. Please contact the local organizers for late registrations.
+Registrations are now closed. Please contact the local organizers for late registrations.
+Find the timetable [here]([url](https://case2026.com/timetable/)).
 
 
 ## Support and practical information
