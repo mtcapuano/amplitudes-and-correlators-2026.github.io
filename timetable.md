@@ -11,7 +11,7 @@ permalink: /timetable/
 |11:00-11:25|Sebastiano Bocchia - Bootstrapping the Spectra of Neutral Goldstones in 4d|
 |11:25-11:50|Théo Keseman - CFT Conserved Correlators from Twistor Space|
 |**11:50-12:10**|**Break**|
-|12:10-12:35|Sébastien  Macdonald - Heavy Effective Field Theory for Black Hole Scattering|
+|12:10-12:35|Sébastien  Macdonald - Classical Observables in Gravity from Heavy-Mass Effective Theory|
 |12:35-13:00|Luke Hamilton - Coaction formulas for Mellin Motives|
 |**13:00-14:00**|**Lunch**|
 |14:00-14:50| James M. Drummond - TBD|
