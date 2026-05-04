@@ -18,7 +18,7 @@ permalink: /timetable/
 |14:50-15:15| Alexander Farren - Unitarity and RG (flat space vs cosmology)|
 |**15:15-15:25**|**Break**|
 |15:25-15:50|Lauren Smyth - Scattering Amplitudes Without Diagrams: CHY and Ambitwistor Strings|
-|15:50-16:15|Clément Virally - String scattering from D-branes in AdS|
+|15:50-16:15|Clément Virally - Bootstrapping String Scattering off D-Branes in AdS|
 |16:15-16:40|Dhruv Pathak - Recursion relations in FLRW spacetimes|
 |**16:40-17:10**|**Tea break**|
 |17:10-17:35|Pablo Vives Matasan - The Magnus Expansion in QFT|
