@@ -24,6 +24,12 @@ The meeting will take place on the **5<sup>th</sup> of May** in the [Centre for 
 ## Organizers
 Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mary University London), Rowan Wright (University of Southampton). For further queries write at m.capuano@herts.ac.uk.
 
+## Poster
+
+<p align="center">  
+  <img src="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/img/poster.jpg" />
+</p>
+
 ## Registration and abstracts
 Register at [this link](https://docs.google.com/forms/d/e/1FAIpQLSdDYrdpV_Dkgxk7PW9FoCpNHlAd4Te4cev21Ax9-9IXgQWpxw/viewform?usp=publish-editor) by **April 27**.
 Registrations are now closed. Please contact the local organizers for late registrations.
