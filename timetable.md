@@ -21,7 +21,7 @@ permalink: /timetable/
 |**15:15-15:25**|**Break**|
 |15:25-15:50|<a type="application/pdf" href="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Smyth.pdf" target="_blank">Lauren Smyth - Scattering Amplitudes Without Diagrams: CHY and Ambitwistor Strings</a>|
 |15:50-16:15|<a type="application/pdf" href="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Virally.pdf" target="_blank">Clément Virally - Bootstrapping String Scattering off D-Branes in AdS</a>|
-|16:15-16:40|[Dhruv Pathak - Recursion relations in FLRW spacetimes]([url](https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Patak.pptx))|
+|16:15-16:40|[Dhruv Pathak - Recursion relations in FLRW spacetimes]([url](https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Pathak.pptx))|
 |**16:40-17:10**|**Tea break**|
 |17:10-17:35|<a type="application/pdf" href="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Matasan" target="_blank">Pablo Vives Matasan - The Magnus Expansion in QFT</a>|
 |17:35-18:00|<a type="application/pdf" href="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Rochford.pdf" target="_blank">Matthew Rochford - Light-like Wilson loop correlators</a>|
