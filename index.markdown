@@ -27,7 +27,7 @@ Mattia Capuano, Alessandro Palazio (local organizers), Augustus Brown (Queen Mar
 ## Poster
 
 <p align="center">  
-  <img src="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/img/poster.jpg" />
+  <img src="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/img/Poster.jpg" />
 </p>
 
 ## Registration and abstracts
