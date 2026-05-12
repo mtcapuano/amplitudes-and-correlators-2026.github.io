@@ -3,11 +3,8 @@ layout: page
 title: Timetable
 permalink: /timetable/
 ---
-<a type="application/pdf" href="assets/Bocchia.pdf" class="image fit">sfgsdgf</a>
-<a href="mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/main/assets/Bocchia.pdf" target="_blank">PDF.</a>
 
-<a href="assets/Bocchia.pdf" type="application/pdf" target="_blank">PDF.</a>
-
+<a type="application/pdf" href="https://mtcapuano.github.io/amplitudes-and-correlators-2026.github.io/assets/Bocchia.pdf" target="_blank">PDF.</a>
 
 
 |Time|Activity|
